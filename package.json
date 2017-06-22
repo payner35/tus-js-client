@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A pure JavaScript client for the tus resumable upload protocol",
   "main": "lib.es5/index.js",
+  "jsnext:main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/payner35/tus-js-client"
