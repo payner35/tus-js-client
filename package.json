@@ -5,7 +5,7 @@
   "main": "lib.es5/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tus/tus-js-client.git"
+    "url": "https://github.com/payner35/tus-js-client"
   },
   "keywords": [
     "tus",
